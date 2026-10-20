@@ -1,12 +1,12 @@
-FOR 
+##FOR 
 Students, Jobseekers
-WHO
+##WHO
 Need a simple way to discover relevant summits and career fairs
-PRODUCT NAME
+##PRODUCT NAME
 ConnectEvent
-THAT KEY BENEFITS
+##THAT KEY BENEFITS
 Enables users to discover upcoming events based on their location, interests, industry, and event type
-UNLIKE
+##UNLIKE
 Unlike manually searching across platforms, users can find all the events in singlw website
-OUR PRODUCT
+##OUR PRODUCT
 Our product brings professional events from different sources into one convenient platform  to help users find relevant opportunities throughout Germany.
